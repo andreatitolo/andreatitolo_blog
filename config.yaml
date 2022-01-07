@@ -58,12 +58,12 @@ params:
       - Powered by <a href="http://gohugo.io">Hugo</a>
       - Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a>
     copyright: yes
-    rss: yes
+    rss: no
     topText: []
     trademark: yes
   homeSubtitle: Rambling about stuff
   images: ''
-  justifyContent: no
+  justifyContent: yes
   keywords: ''
   logo:
     logoHomeLink: /

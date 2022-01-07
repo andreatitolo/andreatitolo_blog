@@ -1,22 +1,17 @@
 ---
 aliases:
 - about-us
-- about-hugo
+- about-andreatitolo
 - contact
 author:
-  name: Hugo Authors
-date: "2014-04-09"
+  name: Andrea Titolo
+date: "2022-01-07"
 title: About
 ---
+  
+Hi, I'm Andrea! I am a Landscape Archaeologist and a researcher focused on the Near East, especially Iron Age.
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I am currently working as research fellow at Sapienza University of Rome. 
+Interested in my work? Check [my main website](https://www.andreatitolo.com)!
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This blog is thought as a more lightweight place where I'll mostly write down my experiences and thoughts about everything that comes to mind.
