@@ -36,7 +36,7 @@ taxonomies:
   series: series
   tag: tags
 params:
-  goatCounter: "andreatitolo"
+  goatCounter: "blog-andreatitolo"
   customCSS: []
   customJS: []
   dateform: Jan 2, 2006
