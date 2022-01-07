@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://eager-mclean-ae84e9.netlify.app
 title: Andrea Titolo
 languageCode: en-us
 theme: hugo-theme-hello-friend-ng
@@ -99,3 +99,8 @@ menu:
     - identifier: posts
       name: Posts/
       url: posts/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
