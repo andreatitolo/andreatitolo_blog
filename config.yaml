@@ -1,4 +1,4 @@
-baseURL: hhtps://blog.andreatitolo.com
+baseURL: https://blog.andreatitolo.com
 title: Andrea Titolo
 languageCode: en-us
 theme: hugo-theme-hello-friend-ng
