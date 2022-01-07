@@ -36,6 +36,7 @@ taxonomies:
   series: series
   tag: tags
 params:
+  goatCounter: "andreatitolo"
   customCSS: []
   customJS: []
   dateform: Jan 2, 2006
@@ -46,7 +47,7 @@ params:
   disableReadOtherPosts: no
   enableGlobalLanguageMenu: no
   enableSharingButtons: yes
-  enableThemeToggle: yes
+  enableThemeToggle: no
   favicon:
     color:
       mask: '#1b1c1d'
@@ -55,8 +56,7 @@ params:
   footer:
     author: yes
     bottomText:
-      - Powered by <a href="http://gohugo.io">Hugo</a>
-      - Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a>
+      - Powered by <a href="http://gohugo.io">Hugo</a> and <a href=https://github.com/rhazdon/hugo-theme-hello-friend-ng>Hello Friend NG</a>
     copyright: yes
     rss: no
     topText: []
@@ -100,6 +100,7 @@ menu:
       name: Posts/
       url: posts/
 
+  
 markup:
   goldmark:
     renderer:
