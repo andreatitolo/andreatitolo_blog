@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Safe to ignore
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+
+# If building with netlify, ignore these two
+/public/
+/resources/

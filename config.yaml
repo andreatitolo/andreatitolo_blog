@@ -1,5 +1,5 @@
 baseURL: https://example.com
-title: Hello Friend NG
+title: Andrea Titolo
 languageCode: en-us
 theme: hugo-theme-hello-friend-ng
 PygmentsCodeFences: yes
@@ -28,7 +28,7 @@ disableHugoGeneratorInject: no
 permalinks:
   posts: /posts/:year/:month/:title/
 author:
-  name: Jane Doe
+  name: Andrea Titolo
 blackfriday:
   hrefTargetBlank: yes
 taxonomies:
@@ -42,11 +42,11 @@ params:
   dateformNum: '2006-01-02'
   dateformNumTime: 2006-01-02 15:04
   dateformShort: Jan 2
-  description: Nice theme for homepages and blogs
+  description: Personal blog, just a place to share experiences, ideas and such.
   disableReadOtherPosts: no
-  enableGlobalLanguageMenu: yes
+  enableGlobalLanguageMenu: no
   enableSharingButtons: yes
-  enableThemeToggle: no
+  enableThemeToggle: yes
   favicon:
     color:
       mask: '#1b1c1d'
@@ -61,25 +61,25 @@ params:
     rss: yes
     topText: []
     trademark: yes
-  homeSubtitle: Hello Friend NG
+  homeSubtitle: Rambling about stuff
   images: ''
   justifyContent: no
   keywords: ''
   logo:
     logoHomeLink: /
-    logoMark: '>'
+    logoMark: '~'
     logoText: $ cd /home/
   social:
     - name: twitter
-      url: https://twitter.com/
+      url: https://twitter.com/whysofurious1
     - name: email
-      url: mailto:nobody@example.com
+      url: mailto:titoloandrea@gmail.com
     - name: github
-      url: https://github.com/
-    - name: linkedin
-      url: https://www.linkedin.com/
-    - name: stackoverflow
-      url: https://www.stackoverflow.com/
+      url: https://github.com/andreatitolo
+    # - name: linkedin
+    #   url: https://www.linkedin.com/
+    # - name: stackoverflow
+    #   url: https://www.stackoverflow.com/
 languages:
   en:
     copyright: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
@@ -94,8 +94,8 @@ languages:
 menu:
   main:
     - identifier: about
-      name: About
+      name: About/
       url: about/
     - identifier: posts
-      name: Posts
+      name: Posts/
       url: posts/
