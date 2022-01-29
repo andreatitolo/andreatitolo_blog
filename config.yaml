@@ -72,14 +72,15 @@ params:
   social:
     - name: twitter
       url: https://twitter.com/whysofurious1
-    - name: email
-      url: mailto:titoloandrea@gmail.com
+    - name: mastodon
+      url: https://mastodon.uno/@whysofurious
+    - name: pixelfed
+      url: https://pixelfed.uno/whysofurious
     - name: github
       url: https://github.com/andreatitolo
-    # - name: linkedin
-    #   url: https://www.linkedin.com/
-    # - name: stackoverflow
-    #   url: https://www.stackoverflow.com/
+    - name: email
+      url: mailto:titoloandrea@ik.me
+
 languages:
   en:
     copyright: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
