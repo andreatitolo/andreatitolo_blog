@@ -99,7 +99,9 @@ menu:
     - identifier: posts
       name: Posts/
       url: posts/
-
+    - identifier: snowflake
+      name: Snowflake/
+      url: snowflake/
   
 markup:
   goldmark:
